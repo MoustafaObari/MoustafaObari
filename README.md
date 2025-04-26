@@ -45,10 +45,11 @@
 
 ### 🎟️ **Ticket Shop Application**
 > Full-stack ticketing platform inspired by Ticketmaster
-- Built with `React.js`, `Node.js`, `MongoDB`, `Stripe`, and `AWS`
-- Seamless, responsive UI with live purchase system
-- API optimization reduced load times by 30%
-- 99.9% uptime with AWS deployment
+- Built with React.js, Node.js, Express, and MongoDB
+- Seamless, responsive UI for browsing, booking, and purchasing tickets
+- Secure session management with MongoDB-based authentication
+- Robust backend API with optimized endpoints
+- Mobile-friendly and fast-loading frontend design
 
 🔗 [View Project](https://github.com/MoustafaObari/ticketmaster)
 
