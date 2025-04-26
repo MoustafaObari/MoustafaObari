@@ -50,7 +50,7 @@
 - API optimization reduced load times by 30%
 - 99.9% uptime with AWS deployment
 
-🔗 [View Project](https://github.com/MoustafaObari)
+🔗 [View Project](https://github.com/MoustafaObari/ticketmaster)
 
 ---
 
