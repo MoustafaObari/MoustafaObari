@@ -75,7 +75,7 @@
 - Designed responsive, accessible UI using mobile-first Bootstrap 5 components
 - Followed modular MVC architecture and RESTful best practices for scalable service expansion
 
-🔗 [View Project](https://github.com/MoustafaObari)
+🔗 [View Project](https://github.com/MoustafaObari/healthcare-app)
 
 ---
 
