@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Moustafa Obari 👋</h1>
-<h3 align="center">Software Developer | Full-Stack Developer | Cloud Enthusiast | Based in Toronto 🇨🇦</h3>
+<h3 align="center"> IT Support Specialist | Software Developer | Full-Stack Developer | Cloud Enthusiast | Based in Toronto 🇨🇦</h3>
 
 <p align="center">
   <a href="mailto:moustafaobari@gmail.com">📧 Email</a> • 
