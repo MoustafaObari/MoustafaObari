@@ -1,99 +1,108 @@
 <h1 align="center">Hi there, I'm Moustafa Obari 👋</h1>
-<h3 align="center"> IT Support Specialist | Software Developer | Full-Stack Developer | Cloud Enthusiast | Based in Toronto 🇨🇦</h3>
+<h3 align="center">IT Support Specialist • PowerShell Automation • M365/Entra/Intune • Toronto, Canada 🇨🇦</h3>
 
 <p align="center">
-  <a href="mailto:moustafaobari@gmail.com">📧 Email</a> • 
-  <a href="https://linkedin.com/in/moustafa-obari-a818a9356">💼 LinkedIn</a> • 
+  <a href="mailto:moustafaobari@gmail.com">📧 Email</a> •
+  <a href="https://linkedin.com/in/moustafaobari">💼 LinkedIn</a> •
   <a href="https://github.com/MoustafaObari">🖥 GitHub</a>
 </p>
 
 ---
 
-## 🚀 About Me
+## ⭐ Highlights
+- **2+ yrs IT support** across Windows/macOS/Linux • **95%+ SLA** • 97% user satisfaction  
+- Core stack: **Active Directory / Entra ID (Azure AD)** • **Intune/Endpoint (Autopilot)** • **Office 365 / Exchange Online** • **ServiceNow (Incident/Request/Change)**  
+- **PowerShell automation** for deployment, monitoring, and reporting → fewer errors, faster resolution  
+- **PGWP (Canada)** • English & Arabic • Intermediate French • Open across Ontario
 
-🔹 **Software Engineering Graduate** from Centennial College (2024)  
-🔹 Passionate about **building scalable systems**, **clean architecture**, and **modern web applications**  
-🔹 Focused on **cloud-first development**, **secure authentication**, and **data-driven APIs**  
-🔹 A believer in lifelong learning — recently diving deeper into **DevOps, Kubernetes, and AI**  
-🔹 Fluent in **English** and **Arabic** 🌍
+---
+
+## 🚀 About Me
+I’m an **IT Support Specialist and Software Engineering graduate** based in Toronto. I keep users productive and systems reliable—skilled in **Active Directory, Entra ID (Azure AD), Intune / Endpoint Manager, Office 365 / Exchange Online, and ServiceNow**—and I’m proud of consistently resolving **95%+ of tickets within SLA** while making support a calm, positive experience.
+
+I turn repetitive work into **PowerShell automation** and build **cloud-first, secure solutions** that cut errors, strengthen compliance, and save time. Recent work includes an **automated deployment framework** (cut install errors **40%+**) and a **system-health dashboard** that catches issues before they impact users.
+
+Alongside support, I bring a solid **full-stack** base (React.js, Node.js, Spring Boot, MongoDB), so I can bridge **infrastructure, automation, and application troubleshooting** to solve problems end-to-end.
 
 ---
 
 ## 🧠 Technical Toolkit
 
-### 🛠️ Languages
-`Java` `Python` `C#` `JavaScript` `HTML/CSS` `Kotlin` `PHP`
+**IT Support & Systems**  
+`Active Directory` · `Entra ID / Azure AD` · `Intune / Endpoint Manager` · `Office 365 / Exchange Online` ·  
+`Exchange Admin Center` · `Intune Autopilot` · `MFA Administration` · `Device Imaging (MDT/SCCM/Intune)` ·  
+`VPN` · `DNS/DHCP` · `RDP` · `Printer & Peripheral Support` · `ServiceNow (Incident/Request/Change)` · `SLA Monitoring`
 
-### 🌐 Frontend
-`React.js` `Thymeleaf` `Bootstrap`
+**Automation & Scripting**  
+`PowerShell` · `Bash`  *(reporting, bulk ops, compliance checks, scheduled tasks)*
 
-### 🧰 Backend & APIs
-`Spring Boot` `Node.js` `Express.js` `JWT` `REST APIs`
+**Cloud & DevOps**  
+`Azure` · `AWS (S3, EC2, RDS)` · `Docker` · `Kubernetes` · `GitHub Actions`
 
-### 🗃️ Databases
-`MongoDB` `MySQL` `SQL Server` `Oracle`
+**Web Development**  
+`React.js` · `Node.js` · `Express.js` · `Spring Boot` · `Thymeleaf` · `REST APIs` · `JWT`
 
-### ☁️ Cloud & DevOps
-`AWS (S3, EC2, RDS)` `Azure` `Docker` `Kubernetes` `GitHub Actions`
+**Databases**  
+`MongoDB` · `MySQL` · `SQL Server` · `Oracle`
 
-### 🧪 Tools & Platforms
-`Git` `Postman` `Visual Studio` `IntelliJ IDEA` `VS Code` `Power BI` `Jira`
+**Tools & Platforms**  
+`Git` · `Postman` · `VS Code` · `IntelliJ IDEA` · `Power BI` · `Jira` · `Wireshark`
 
 ---
 
 ## 📦 Featured Projects
 
-### 🎟️ **Ticket Shop Application**
-> Scalable full-stack ticketing platform for seamless event transactions
-- Developed with React.js, Node.js, Express.js, and MongoDB, following clean REST API principles
-- Designed a mobile-first UI achieving 95+ Lighthouse performance score across devices
-- Engineered secure session handling using MongoDB-backed authentication with encrypted cookies
-- Built optimized API endpoints, reducing server response times by 35% through query optimization
-- Implemented dynamic event search and booking system supporting real-time updates
-
-🔗 [View Project](https://github.com/MoustafaObari/ticketmaster)
+### ⚙️ Automated Software Deployment Framework (PowerShell)
+**Problem.** Manual installs created configuration drift & user errors.  
+**Solution.** **PowerShell automation framework** with rollback + Windows Forms GUI.  
+**Impact.** **40%+ fewer installation errors**, faster rollouts, auditable HTML/CSV reports & email alerts.  
+**Tech.** PowerShell, WinRM, Windows Forms, SMTP  
+🔗 **Repo:** https://github.com/MoustafaObari/software-deployment
 
 ---
 
-### 🛡️ **Authorization & Access Control App**
-> Enterprise-grade Role-Based Access Control (RBAC) system for secure feature management
-- Built with React.js, Node.js, Express.js, MongoDB, and JWT for fully tokenized session security
-- Architected dynamic roles, permission hierarchies, and multi-level approval workflows across protected APIs
-- Achieved 100% backend route protection with modular middleware design
-- Enabled admin dashboards with real-time ticket tracking and audit logging for access approvals
-- Designed scalable authentication modules following OAuth 2.0 inspired patterns
-
-🔗 [View Project](https://github.com/MoustafaObari/role-access-ticketing)
+### 📊 Remote System Health Monitoring (PowerShell)
+**Problem.** Failures were detected late; downtime hurt users.  
+**Solution.** **Proactive monitoring** of CPU/RAM/disk/SMART + Windows Update logs with **color-coded HTML dashboards** & **secure email alerts**.  
+**Impact.** **Reduced downtime** via proactive maintenance and trend visibility.  
+**Tech.** PowerShell, WinRM, SMTP, JSON  
+🔗 **Repo:** https://github.com/MoustafaObari/system-monitoring
 
 ---
 
-### 🏥 **Smart Healthcare Platform**
-> Patient-centered healthcare platform for doctor reviews and personalized clinic recommendations
-- Engineered using Node.js, Express.js, EJS Templates, Bootstrap, and MongoDB-ready architecture
-- Implemented a real-time doctor rating and review engine, calculating aggregate scores dynamically
-- Built behavior-driven smart clinic recommendation algorithms improving discovery efficiency by 30%
-- Designed responsive, accessible UI using mobile-first Bootstrap 5 components
-- Followed modular MVC architecture and RESTful best practices for scalable service expansion
-
-🔗 [View Project](https://github.com/MoustafaObari/healthcare-app)
+### 🎟️ Ticket Shop (Full-Stack)
+High-performance ticketing platform (React, Node, Express, MongoDB).  
+**95+ Lighthouse score**, **–35% API response time** via query optimization, secure sessions with encrypted cookies.  
+🔗 **Repo:** https://github.com/MoustafaObari/ticketmaster
 
 ---
 
-## 🌟 Soft Skills
+### 🏥 Smart Healthcare Platform (Full-Stack)
+Doctor reviews + smart clinic recommendations (Node, Express, Bootstrap, MongoDB).  
+**+30% discovery efficiency** via recommendation algorithms; responsive, accessible UI.  
+🔗 **Repo:** https://github.com/MoustafaObari/healthcare-app
 
-- 🤝 Strong communicator and collaborator across multicultural teams  
-- 🧠 Critical thinker with a passion for problem-solving  
-- 🚀 Fast learner, adaptable, and focused on delivering impact  
-- 🔍 Detail-oriented with a high standard for clean, scalable code
+---
+
+## 🏅 Certifications
+- **AWS Certified Cloud Practitioner** (2025)  
+- **Google IT Support Professional** • **IBM IT Support Professional** • **IBM Cybersecurity Analyst**  
+- **Microsoft IT Support Specialist** • **Microsoft 365 Fundamentals**  
+- **ISTQB Foundation** *(in progress)*
+
+---
+
+## 🌟 Core Strengths
+- 🤝 **Customer-first communicator** — clear, empathetic support users trust  
+- 🧠 **Automation-driven problem solver** — PowerShell to remove toil & speed operations  
+- 🚀 **Proactive & adaptable** — thrives in MSPs/fast-paced teams; documents & shares knowledge  
+- 🔐 **Compliance & reliability focus** — MFA, least-privilege, auditable change, clean handoffs
 
 ---
 
 ## 📫 Let’s Connect
-
-- 📧 Email: [moustafaobari@gmail.com](mailto:moustafaobari@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/moustafa-obari-a818a9356](https://linkedin.com/in/moustafa-obari-a818a9356)  
-- 🖥️ GitHub: [github.com/MoustafaObari](https://github.com/MoustafaObari)
+[Email](mailto:moustafaobari@gmail.com) • [LinkedIn](https://linkedin.com/in/moustafaobari) • [GitHub](https://github.com/MoustafaObari)
 
 ---
 
-<h3 align="center">💡⚡“Driven by curiosity. Powered by code.”</h3>
+<h3 align="center">💡⚡ Turning IT challenges into automation that saves time and improves user experience.</h3>
