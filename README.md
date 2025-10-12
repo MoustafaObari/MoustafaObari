@@ -18,7 +18,7 @@
 <p align="center">
   <a href="#-about-me">About</a> •
   <a href="#-featured-projects">Projects</a> •
-  <a href="#-technical-toolkit-click-to-expand">Toolkit</a> •
+  <a href="#technical-toolkit">Toolkit</a> •
   <a href="#-certifications">Certs</a> •
   <a href="#-lets-connect">Connect</a>
 </p>
@@ -43,6 +43,7 @@ Alongside support, I bring a **full-stack** base (React.js, Node.js, Spring Boot
 
 ---
 
+<a id="technical-toolkit"></a>
 <details><summary>🧠 Technical Toolkit (click to expand)</summary><br>
 
 | Category | Tools |
