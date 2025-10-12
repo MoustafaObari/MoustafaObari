@@ -13,7 +13,7 @@
   <a href="https://github.com/MoustafaObari"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-<h4 align="center">Delivering clarity, automation, and reliability across IT operations.</h4>
+<h4 align="center">Delivering clarity, automation, and reliability across IT operations 🧩</h4>
 
 <p align="center">
   <a href="#-about-me">About</a> •
@@ -127,10 +127,18 @@ Doctor reviews + smart clinic recommendations (Node, Express, Bootstrap, MongoDB
 
 ## 📌 Pinned Work (quick links)
 <p align="center">
-  <a href="https://github.com/MoustafaObari/SoftwareDeploymentTool"><img src="https://img.shields.io/badge/⚙️_Deployment_Tool-0078D4?style=for-the-badge&logo=powershell&logoColor=white" alt="Deployment Tool"></a>
-  <a href="https://github.com/MoustafaObari/SystemHealthMonitor"><img src="https://img.shields.io/badge/📊_System_Health_Monitor-FF6F61?style=for-the-badge&logo=windows&logoColor=white" alt="System Health Monitor"></a>
-  <a href="https://github.com/MoustafaObari/ticketmaster"><img src="https://img.shields.io/badge/🎟️_Ticket_Shop-F6C915?style=for-the-badge&logo=javascript&logoColor=black" alt="Ticket Shop"></a>
-  <a href="https://github.com/MoustafaObari/healthcare-app"><img src="https://img.shields.io/badge/🏥_Smart_Healthcare-00A98F?style=for-the-badge&logo=node.js&logoColor=white" alt="Smart Healthcare"></a>
+  <a href="https://github.com/MoustafaObari/SoftwareDeploymentTool" title="View Deployment Tool Repository">
+    <img src="https://img.shields.io/badge/⚙️_Deployment_Tool-0078D4?style=for-the-badge&logo=powershell&logoColor=white" alt="Deployment Tool">
+  </a>
+  <a href="https://github.com/MoustafaObari/SystemHealthMonitor" title="View System Health Monitor Repository">
+    <img src="https://img.shields.io/badge/📊_System_Health_Monitor-FF6F61?style=for-the-badge&logo=windows&logoColor=white" alt="System Health Monitor">
+  </a>
+  <a href="https://github.com/MoustafaObari/ticketmaster" title="View Ticket Shop Repository">
+    <img src="https://img.shields.io/badge/🎟️_Ticket_Shop-F6C915?style=for-the-badge&logo=javascript&logoColor=black" alt="Ticket Shop">
+  </a>
+  <a href="https://github.com/MoustafaObari/healthcare-app" title="View Smart Healthcare Repository">
+    <img src="https://img.shields.io/badge/🏥_Smart_Healthcare-00A98F?style=for-the-badge&logo=node.js&logoColor=white" alt="Smart Healthcare">
+  </a>
 </p>
 
 ---
@@ -151,6 +159,8 @@ Doctor reviews + smart clinic recommendations (Node, Express, Bootstrap, MongoDB
 </p>
 
 <p align="center">© 2025 Moustafa Obari — crafted with 💙 PowerShell, Markdown, and strong coffee.</p>
+
+<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MoustafaObari&label=Profile%20Views&color=0078D4&style=flat-square" alt="Profile Views"/>
