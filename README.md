@@ -57,7 +57,7 @@ Alongside support, I bring a solid **full-stack** base (React.js, Node.js, Sprin
 **Solution.** **PowerShell automation framework** with rollback + Windows Forms GUI.  
 **Impact.** **40%+ fewer installation errors**, faster rollouts, auditable HTML/CSV reports & email alerts.  
 **Tech.** PowerShell, WinRM, Windows Forms, SMTP  
-🔗 **Repo:** https://github.com/MoustafaObari/software-deployment
+🔗 **Repo:** https://github.com/MoustafaObari/SoftwareDeploymentTool
 
 ---
 
