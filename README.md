@@ -34,12 +34,16 @@
 ---
 
 ## 🔎 At a Glance
+<p align="center">
+
 | Category | Detail |
 |-----------|---------|
 | 🧠 **Focus** | IT Automation & Operational Efficiency |
 | ⚙️ **Stack** | PowerShell, M365, Entra ID, Intune, ServiceNow |
 | 🚀 **Recent Win** | 40% fewer install errors via automated deployment |
 | 🌍 **Availability** | Open across Ontario, Canada |
+
+</p>
 
 ---
 
@@ -50,6 +54,8 @@ I turn repetitive work into **PowerShell automation** and build **cloud-first, s
 Recent work includes an **automated deployment framework** (**⚡ <span style="color:#0078D4">40%+ fewer install errors</span>**) and a **system-health dashboard** that surfaces risks before users feel them.
 
 Alongside support, I bring a **full-stack** base (React.js, Node.js, Spring Boot, MongoDB), bridging **infrastructure, automation, and application troubleshooting** to solve problems end-to-end.
+
+📧 Reach me at [moustafaobari@gmail.com](mailto:moustafaobari@gmail.com)
 
 ---
 
@@ -137,6 +143,8 @@ Doctor reviews + smart clinic recommendations (Node, Express, Bootstrap, MongoDB
 </p>
 
 <br>
+
+<hr style="height:1px;border:none;background:linear-gradient(90deg,#0078D4,#FF6F61);">
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6F61,100:0078D4&height=120&section=footer&text=💡⚡%20Turning%20IT%20challenges%20into%20automation%20that%20saves%20time%20and%20improves%20user%20experience.&fontSize=16&fontColor=ffffff&animation=fadeIn" alt="footer banner"/>
