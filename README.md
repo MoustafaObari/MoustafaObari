@@ -66,7 +66,7 @@ Alongside support, I bring a solid **full-stack** base (React.js, Node.js, Sprin
 **Solution.** **Proactive monitoring** of CPU/RAM/disk/SMART + Windows Update logs with **color-coded HTML dashboards** & **secure email alerts**.  
 **Impact.** **Reduced downtime** via proactive maintenance and trend visibility.  
 **Tech.** PowerShell, WinRM, SMTP, JSON  
-🔗 **Repo:** https://github.com/MoustafaObari/system-monitoring
+🔗 **Repo:** https://github.com/MoustafaObari/SystemHealthMonitor
 
 ---
 
