@@ -3,6 +3,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:FF6F61&height=200&section=header&text=Moustafa%20Obari%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Support%20Specialist%20•%20PowerShell%20Automation%20•%20M365/Entra/Intune&descAlignY=55&descAlign=50" alt="Moustafa Obari banner"/>
 </p>
 
+<br>
+
 <h3 align="center">📍 Toronto, Canada | PGWP (Full-time Eligible)</h3>
 
 <p align="center">
@@ -16,7 +18,7 @@
 <p align="center">
   <a href="#-about-me">About</a> •
   <a href="#-featured-projects">Projects</a> •
-  <a href="#-technical-toolkit">Toolkit</a> •
+  <a href="#-technical-toolkit-click-to-expand">Toolkit</a> •
   <a href="#-certifications">Certs</a> •
   <a href="#-lets-connect">Connect</a>
 </p>
@@ -34,13 +36,15 @@
 ## 🚀 About Me
 I’m an **IT Support Specialist and Software Engineering graduate** based in Toronto. I keep users productive and systems reliable—skilled in **Active Directory, Entra ID (Azure AD), Intune / Endpoint Manager, Office 365 / Exchange Online, and ServiceNow**—and I’m proud of consistently resolving **95%+ of tickets within SLA** while keeping support calm and clear.
 
-I turn repetitive work into **PowerShell automation** and build **cloud-first, secure solutions** that cut errors, strengthen compliance, and save time. Recent work includes an **automated deployment framework** (**⚡ 40%+ fewer install errors**) and a **system-health dashboard** that surfaces risks before users feel them.
+I turn repetitive work into **PowerShell automation** and build **cloud-first, secure solutions** that cut errors, strengthen compliance, and save time.  
+Recent work includes an **automated deployment framework** (**⚡ <span style="color:#0078D4">40%+ fewer install errors</span>**) and a **system-health dashboard** that surfaces risks before users feel them.
 
 Alongside support, I bring a **full-stack** base (React.js, Node.js, Spring Boot, MongoDB), bridging **infrastructure, automation, and application troubleshooting** to solve problems end-to-end.
 
 ---
 
-## 🧠 Technical Toolkit
+<details><summary>🧠 Technical Toolkit (click to expand)</summary><br>
+
 | Category | Tools |
 |:--|:--|
 | **IT Support & Systems** | `Active Directory`, `Entra ID / Azure AD`, `Intune / Endpoint Manager`, `Office 365 / Exchange Online`, `ServiceNow (Incident/Request/Change)` |
@@ -50,6 +54,8 @@ Alongside support, I bring a **full-stack** base (React.js, Node.js, Spring Boot
 | **Databases** | `MongoDB`, `MySQL`, `SQL Server`, `Oracle` |
 | **Tools & Platforms** | `Git`, `Postman`, `VS Code`, `IntelliJ IDEA`, `Power BI`, `Jira`, `Wireshark` |
 
+</details>
+
 ---
 
 ## 📦 Featured Projects
@@ -57,32 +63,32 @@ Alongside support, I bring a **full-stack** base (React.js, Node.js, Spring Boot
 ### ⚙️ Automated Software Deployment Framework (PowerShell)
 **Problem:** Manual installs created configuration drift & user errors.  
 **Solution:** **PowerShell automation framework** with rollback + Windows Forms GUI.  
-**Impact:** **⚡ 40%+ fewer installation errors**, faster rollouts, auditable HTML/CSV reports & email alerts.  
+**Impact:** ⚡ **<span style="color:#0078D4">40% fewer installation errors</span>**, faster rollouts, auditable HTML/CSV reports & email alerts.  
 **Tech:** PowerShell, WinRM, Windows Forms, SMTP  
-🔗 **Repo:** https://github.com/MoustafaObari/SoftwareDeploymentTool
+🔗 **Repo:** [Software Deployment Tool](https://github.com/MoustafaObari/SoftwareDeploymentTool)
 
 ---
 
 ### 📊 Remote System Health Monitoring (PowerShell)
 **Problem:** Failures were detected late; downtime hurt users.  
 **Solution:** **Proactive monitoring** of CPU/RAM/disk/SMART + Windows Update logs with **color-coded HTML dashboards** & **secure email alerts**.  
-**Impact:** **📉 Reduced downtime** via proactive maintenance and trend visibility.  
+**Impact:** 📉 **<span style="color:#0078D4">Reduced downtime</span>** via proactive maintenance and trend visibility.  
 **Tech:** PowerShell, WinRM, SMTP, JSON  
-🔗 **Repo:** https://github.com/MoustafaObari/SystemHealthMonitor
+🔗 **Repo:** [System Health Monitor](https://github.com/MoustafaObari/SystemHealthMonitor)
 
 ---
 
 ### 🎟️ Ticket Shop (Full-Stack)
 High-performance ticketing platform (React, Node, Express, MongoDB).  
-**Result:** **✅ 95+ Lighthouse score**, **⏱️ –35% API response time** via query optimization; secure sessions with encrypted cookies.  
-🔗 **Repo:** https://github.com/MoustafaObari/ticketmaster
+**Result:** ✅ **<span style="color:#0078D4">95+ Lighthouse score</span>**, ⏱️ –35% API response time via query optimization; secure sessions with encrypted cookies.  
+🔗 **Repo:** [Ticket Shop](https://github.com/MoustafaObari/ticketmaster)
 
 ---
 
 ### 🏥 Smart Healthcare Platform (Full-Stack)
 Doctor reviews + smart clinic recommendations (Node, Express, Bootstrap, MongoDB).  
-**Impact:** **🔎 +30% discovery efficiency** via recommendation algorithms; responsive, accessible UI.  
-🔗 **Repo:** https://github.com/MoustafaObari/healthcare-app
+**Impact:** 🔎 **<span style="color:#0078D4">+30% discovery efficiency</span>** via recommendation algorithms; responsive, accessible UI.  
+🔗 **Repo:** [Smart Healthcare Platform](https://github.com/MoustafaObari/healthcare-app)
 
 ---
 
@@ -119,10 +125,12 @@ Doctor reviews + smart clinic recommendations (Node, Express, Bootstrap, MongoDB
   <a href="https://github.com/MoustafaObari"><img alt="View my projects" src="https://img.shields.io/badge/View_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
----
+<br>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6F61,100:0078D4&height=120&section=footer&text=💡⚡%20Turning%20IT%20challenges%20into%20automation%20that%20saves%20time%20and%20improves%20user%20experience.&fontSize=16&fontColor=ffffff&animation=fadeIn" alt="footer banner"/>
 </p>
 
 <p align="center">© 2025 Moustafa Obari — crafted with 💙 PowerShell, Markdown, and strong coffee.</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=MoustafaObari&label=Profile%20Views&color=0078D4&style=flat-square)
