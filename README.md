@@ -33,6 +33,16 @@
 
 ---
 
+## 🔎 At a Glance
+| Category | Detail |
+|-----------|---------|
+| 🧠 **Focus** | IT Automation & Operational Efficiency |
+| ⚙️ **Stack** | PowerShell, M365, Entra ID, Intune, ServiceNow |
+| 🚀 **Recent Win** | 40% fewer install errors via automated deployment |
+| 🌍 **Availability** | Open across Ontario, Canada |
+
+---
+
 ## 🚀 About Me
 I’m an **IT Support Specialist and Software Engineering graduate** based in Toronto. I keep users productive and systems reliable—skilled in **Active Directory, Entra ID (Azure AD), Intune / Endpoint Manager, Office 365 / Exchange Online, and ServiceNow**—and I’m proud of consistently resolving **95%+ of tickets within SLA** while keeping support calm and clear.
 
@@ -134,4 +144,6 @@ Doctor reviews + smart clinic recommendations (Node, Express, Bootstrap, MongoDB
 
 <p align="center">© 2025 Moustafa Obari — crafted with 💙 PowerShell, Markdown, and strong coffee.</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MoustafaObari&label=Profile%20Views&color=0078D4&style=flat-square)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MoustafaObari&label=Profile%20Views&color=0078D4&style=flat-square" alt="Profile Views"/>
+</p>
