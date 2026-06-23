@@ -1,13 +1,13 @@
 <a id="top"></a>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0078D4,50:60A5FA,100:F97316&text=Moustafa%20Obari%20%F0%9F%91%8B&fontAlignY=35&fontColor=ffffff&fontSize=42&desc=IT%20Support%20%7C%20Microsoft%20365%20%7C%20Entra%20ID%20%7C%20Intune%20%7C%20Active%20Directory%20%7C%20PowerShell&descAlignY=58&descSize=14" alt="Moustafa Obari Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0078D4,45:60A5FA,100:F97316&text=Moustafa%20Obari&fontAlignY=35&fontColor=ffffff&fontSize=44&desc=IT%20Support%20%7C%20Microsoft%20365%20%7C%20Entra%20ID%20%7C%20Intune%20%7C%20Active%20Directory%20%7C%20PowerShell&descAlignY=58&descSize=14" alt="Moustafa Obari Banner" />
 </p>
 
 <h1 align="center">Moustafa Obari</h1>
 
 <p align="center">
-  <b>IT Support Specialist focused on Microsoft 365, Entra ID, Intune, Active Directory, endpoint support, hybrid identity, and PowerShell automation.</b>
+  <b>IT Support Specialist focused on Microsoft 365, Entra ID, Intune, Active Directory, Windows endpoint support, hybrid identity, and PowerShell automation.</b>
 </p>
 
 <p align="center">
@@ -27,6 +27,17 @@
 </p>
 
 <p align="center">
+  <a href="#snapshot"><img src="https://img.shields.io/badge/Snapshot-111827?style=for-the-badge" alt="Snapshot" /></a>
+  <a href="#portfolio-map"><img src="https://img.shields.io/badge/Portfolio%20Map-111827?style=for-the-badge" alt="Portfolio Map" /></a>
+  <a href="#featured-projects"><img src="https://img.shields.io/badge/Featured%20Projects-111827?style=for-the-badge" alt="Featured Projects" /></a>
+  <a href="#support-value"><img src="https://img.shields.io/badge/Support%20Value-111827?style=for-the-badge" alt="Support Value" /></a>
+  <a href="#technical-toolkit"><img src="https://img.shields.io/badge/Toolkit-111827?style=for-the-badge" alt="Toolkit" /></a>
+  <a href="#certifications"><img src="https://img.shields.io/badge/Certifications-111827?style=for-the-badge" alt="Certifications" /></a>
+  <a href="#target-roles"><img src="https://img.shields.io/badge/Target%20Roles-111827?style=for-the-badge" alt="Target Roles" /></a>
+  <a href="#contact"><img src="https://img.shields.io/badge/Contact-111827?style=for-the-badge" alt="Contact" /></a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Microsoft%20365-2563EB?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft 365" />
   <img src="https://img.shields.io/badge/Entra%20ID-111827?style=flat-square&logo=microsoftazure&logoColor=white" alt="Entra ID" />
   <img src="https://img.shields.io/badge/Intune-2563EB?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Intune" />
@@ -37,40 +48,34 @@
 
 ---
 
-## 🌟 Highlights
+<a id="snapshot"></a>
 
-- 🎓 Software Engineering Technology graduate from Centennial College.
-- 🧰 Hands-on Microsoft IT portfolio covering Active Directory, Microsoft 365, Entra ID, Intune, endpoint compliance, hybrid identity, and PowerShell automation.
-- 🛠️ Built practical support labs for user lifecycle management, endpoint provisioning, app deployment, identity sync, software deployment, and system monitoring.
-- 🤝 Front-line support background with strong communication, de-escalation, documentation, and troubleshooting skills.
-- 📜 Certifications include Microsoft 365 Fundamentals (MS-900) and Google IT Support Professional Certificate.
-- 🚀 Open to IT Support, Help Desk, Service Desk, Desktop Support, Endpoint Support, Microsoft 365 Support, and Junior SysAdmin roles.
-
----
-
-## 🔎 At a Glance
+## 🔎 Snapshot
 
 | Category | Details |
 |---|---|
-| **Focus** | IT Support · Microsoft 365 · Entra ID · Intune · Active Directory |
-| **Core Skills** | Windows support, user administration, device management, identity troubleshooting, PowerShell |
-| **Tools** | Microsoft 365 Admin Center, Entra Admin Center, Intune Admin Center, Active Directory, PowerShell, Microsoft Graph |
-| **Portfolio Theme** | Practical IT support workflows with screenshots, documentation, automation, and support-ready evidence |
+| **Target Roles** | IT Support · Help Desk · Service Desk · Desktop Support · Endpoint Support · Junior SysAdmin |
+| **Microsoft Stack** | Microsoft 365, Entra ID, Intune, Active Directory, Windows Server, Windows 10/11 |
+| **Support Strengths** | Account support, device checks, license/group review, endpoint validation, documentation, escalation notes |
+| **Automation Strengths** | PowerShell, Microsoft Graph PowerShell, CSV workflows, structured logs, HTML reporting |
+| **Portfolio Evidence** | Screenshots, demo videos, documentation, runbooks, dashboard outputs, and support-ready checklists |
 | **Availability** | Toronto / GTA · On-site, hybrid, or remote · Immediate availability |
 
 ---
 
 ## 👋 About Me
 
-I am a Toronto-based IT Support Specialist focused on practical Microsoft infrastructure and support workflows. My portfolio is built around real tasks IT teams handle every day: creating and managing users, validating endpoint enrollment, checking compliance, deploying apps, documenting evidence, and troubleshooting identity or device issues.
+I am a Toronto-based **IT Support Specialist** focused on practical Microsoft infrastructure and support workflows. My portfolio is built around tasks IT teams handle every day: creating and managing users, validating endpoint enrollment, checking compliance, deploying apps, documenting evidence, and troubleshooting identity or device issues.
 
-My strongest areas are Microsoft 365 administration, Entra ID, Microsoft Intune, Active Directory, Windows endpoint support, and PowerShell automation. I like building clear, repeatable, support-ready workflows that make troubleshooting easier and documentation cleaner.
+My strongest areas are **Microsoft 365 administration, Entra ID, Microsoft Intune, Active Directory, Windows endpoint support, hybrid identity, and PowerShell automation**. I like building clear, repeatable, support-ready workflows that make troubleshooting easier and documentation cleaner.
 
-📫 Reach me at **moustafaobari@gmail.com**
+📫 Reach me at **[moustafaobari@gmail.com](mailto:moustafaobari@gmail.com)**
 
 ---
 
-## 🧭 Portfolio Story
+<a id="portfolio-map"></a>
+
+## 🧭 Portfolio Map
 
 ```text
 Active Directory Foundation
@@ -83,177 +88,142 @@ Intune Endpoint Provisioning and Compliance
         │
         ▼
 Hybrid Cloud Identity Sync
+        │
+        ▼
+PowerShell Support Automation
 ```
 
-My projects show how on-premises identity, cloud identity, endpoint management, user lifecycle administration, and hybrid sync connect together in real IT support environments.
+| Stage | Project | What It Proves |
+|---|---|---|
+| **1. On-Prem Identity** | [Active Directory Administration Lab](https://github.com/MoustafaObari/Active-Directory-Administration-Lab) | ADUC, OUs, users, groups, password resets, mapped drives, and support documentation |
+| **2. Cloud User Lifecycle** | [Microsoft 365 User Lifecycle Management](https://github.com/MoustafaObari/Microsoft-365-User-Lifecycle-Management) | Onboarding/offboarding, licensing, groups, audits, remediation, and dashboards |
+| **3. Endpoint Management** | [Cloud Endpoint Provisioning and Compliance](https://github.com/MoustafaObari/Cloud-Endpoint-Provisioning-Compliance) | Intune enrollment, compliance policies, configuration profiles, app deployment, and demo proof |
+| **4. Hybrid Identity** | [Hybrid Cloud AD Identity Sync](https://github.com/MoustafaObari/Hybrid-Cloud-AD-Identity-Sync) | On-prem AD connected to Entra ID using Cloud Sync and the Provisioning Agent |
+| **5. Support Automation** | [SoftwareDeploymentTool](https://github.com/MoustafaObari/SoftwareDeploymentTool) / [SystemHealthMonitor](https://github.com/MoustafaObari/SystemHealthMonitor) | Technician-focused PowerShell tools for deployment, monitoring, logs, and reports |
 
 ---
+
+<a id="featured-projects"></a>
 
 ## ⭐ Featured Microsoft IT Projects
 
-### 1️⃣ Microsoft 365 User Lifecycle Management
-
-**Repo:** [Microsoft-365-User-Lifecycle-Management](https://github.com/MoustafaObari/Microsoft-365-User-Lifecycle-Management)
-
-A Microsoft 365 and Entra ID administration project for user onboarding, offboarding, license management, compliance auditing, remediation, and reporting.
-
-**What it demonstrates:**
-
-- Microsoft 365 Admin Center user workflows.
-- Bulk onboarding and offboarding with PowerShell.
-- License and group membership management.
-- Lifecycle standards, audit checks, and remediation.
-- CSV reports, structured logs, and HTML dashboards.
-
-**Tech:** Microsoft 365 · Entra ID · PowerShell · Microsoft Graph · CSV · HTML Dashboards
+| Project | Focus | Evidence |
+|---|---|---|
+| **[Microsoft 365 User Lifecycle Management](https://github.com/MoustafaObari/Microsoft-365-User-Lifecycle-Management)** | Microsoft 365 and Entra ID user onboarding, offboarding, license management, audit, remediation, and reporting | PowerShell scripts, CSV inputs, logs, HTML dashboards, screenshots, demo video |
+| **[Cloud Endpoint Provisioning and Compliance](https://github.com/MoustafaObari/Cloud-Endpoint-Provisioning-Compliance)** | Microsoft Intune endpoint enrollment, configuration profile validation, compliance policy status, and app deployment | 21 screenshots, demo video, documentation, support workflow |
+| **[Hybrid Cloud AD Identity Sync](https://github.com/MoustafaObari/Hybrid-Cloud-AD-Identity-Sync)** | Screenshot-based hybrid identity proof showing on-prem AD connected to Microsoft Entra ID using Cloud Sync | 11 screenshots, architecture diagram, proof summary, scope validation |
+| **[Active Directory Administration Lab](https://github.com/MoustafaObari/Active-Directory-Administration-Lab)** | Windows Server AD lab with OUs, users, groups, password reset workflows, mapped drives, and support documentation | PowerShell, screenshots, support runbook, AD administration evidence |
+| **[Software Deployment Tool](https://github.com/MoustafaObari/SoftwareDeploymentTool)** | PowerShell utility for silent MSI/EXE installs, uninstalls, logging, and HTML reporting | GUI tool, packaging, logs, HTML reports |
+| **[System Health Monitor](https://github.com/MoustafaObari/SystemHealthMonitor)** | PowerShell monitoring tool for CPU, RAM, disk, services, uptime, and system health | GUI tool, remote-style checks, HTML reporting |
 
 ---
 
-### 2️⃣ Cloud Endpoint Provisioning and Compliance
+## 🧩 Project Highlights
 
-**Repo:** [Cloud-Endpoint-Provisioning-Compliance](https://github.com/MoustafaObari/Cloud-Endpoint-Provisioning-Compliance)
+<details open>
+<summary><b>Microsoft 365 User Lifecycle Management</b></summary>
 
-A Microsoft Intune and Entra ID endpoint management lab for Windows device enrollment, configuration profile assignment, compliance policy validation, app deployment, and support documentation.
+Built a Microsoft 365 and Entra ID lifecycle lab for onboarding, offboarding, license assignment, group membership validation, audit findings, remediation, and reporting.
 
-**What it demonstrates:**
+**Key skills:** Microsoft 365 Admin Center · Entra ID · Microsoft Graph PowerShell · CSV automation · HTML dashboards
 
-- Windows device enrollment and Intune inventory visibility.
-- Entra ID device identity validation.
-- Configuration profile assignment and success status.
-- Compliance policy validation.
-- Google Chrome app deployment through Intune.
-- Screenshots and demo video evidence.
+</details>
 
-**Tech:** Microsoft Intune · Entra ID · Windows Endpoint · PowerShell · Microsoft Graph · Documentation
+<details open>
+<summary><b>Cloud Endpoint Provisioning and Compliance</b></summary>
 
----
+Built an Intune endpoint lab demonstrating Windows device enrollment, device identity validation, configuration profile assignment, compliance policy validation, Google Chrome app deployment, and support-ready evidence.
 
-### 3️⃣ Hybrid Cloud AD Identity Sync
+**Key skills:** Microsoft Intune · Entra ID · Windows Endpoint · Compliance Policies · App Deployment · Documentation
 
-**Repo:** [Hybrid-Cloud-AD-Identity-Sync](https://github.com/MoustafaObari/Hybrid-Cloud-AD-Identity-Sync)
-
-A screenshot-based hybrid identity proof-of-connection lab showing on-premises Active Directory connected to Microsoft Entra ID using Microsoft Entra Cloud Sync and the Microsoft Entra Provisioning Agent.
-
-**What it demonstrates:**
-
-- On-premises AD domain controller context.
-- ADUC OU structure and scoped users.
-- Microsoft Entra Provisioning Agent configuration.
-- Agent service validation.
-- LDAP / Global Catalog reachability testing.
-- Microsoft Entra Cloud Sync configuration and healthy status.
-- Selected OU scoping for controlled synchronization.
-
-**Tech:** Active Directory · Windows Server · Microsoft Entra ID · Entra Cloud Sync · Provisioning Agent · Hybrid Identity
-
----
-
-### 4️⃣ Active Directory Administration Lab
-
-**Repo:** [Active-Directory-Administration-Lab](https://github.com/MoustafaObari/Active-Directory-Administration-Lab)
-
-A Windows Server Active Directory lab showing user provisioning, OU structure, group management, password reset workflows, mapped drives, and support documentation.
-
-**What it demonstrates:**
-
-- Domain controller and ADUC administration.
-- OU and group structure design.
-- Bulk user creation from CSV.
-- Password reset and account support workflows.
-- Folder permissions and mapped drive support.
-- IT support documentation and screenshots.
-
-**Tech:** Windows Server · Active Directory · PowerShell · Group Policy · CSV · IT Support Documentation
-
----
-
-### 5️⃣ Software Deployment Tool
-
-**Repo:** [SoftwareDeploymentTool](https://github.com/MoustafaObari/SoftwareDeploymentTool)
-
-A PowerShell-based software deployment utility for silent installs, uninstalls, logging, and HTML reporting.
-
-**What it demonstrates:**
-
-- MSI / EXE deployment automation.
-- Silent install and uninstall workflows.
-- GUI-based PowerShell utility.
-- CSV logging and HTML reporting.
-- Practical endpoint support automation.
-
-**Tech:** PowerShell · Windows Forms GUI · MSI / EXE · CSV Logs · HTML Reports
-
----
-
-### 6️⃣ System Health Monitor
-
-**Repo:** [SystemHealthMonitor](https://github.com/MoustafaObari/SystemHealthMonitor)
-
-A PowerShell-based monitoring tool for checking CPU, RAM, disk, services, uptime, network status, and system health.
-
-**What it demonstrates:**
-
-- Endpoint health checks.
-- Remote support-style troubleshooting.
-- HTML reporting.
-- GUI-based PowerShell tool.
-- Practical IT support monitoring.
-
-**Tech:** PowerShell · Windows Monitoring · HTML Reports · GUI · IT Support
-
----
-
-## 🧰 Technical Toolkit
+</details>
 
 <details>
-<summary><b>Click to expand technical toolkit</b></summary>
+<summary><b>Hybrid Cloud AD Identity Sync</b></summary>
 
-### Microsoft / IT Support
+Built a screenshot-based proof-of-connection lab showing on-premises Active Directory connected to Microsoft Entra ID using Microsoft Entra Cloud Sync and the Microsoft Entra Provisioning Agent.
 
-- Microsoft 365 Admin Center
-- Microsoft Entra ID
-- Microsoft Intune
-- Active Directory
-- Windows 10 / 11
-- Windows Server
-- User onboarding and offboarding
-- Password reset and account support
-- Device enrollment and compliance checks
-- License and group management
-- Hybrid identity concepts
-- Microsoft Entra Cloud Sync concepts
+**Key skills:** Active Directory · Windows Server · Entra Cloud Sync · Provisioning Agent · LDAP / Global Catalog Validation · Hybrid Identity
 
-### Automation / Scripting
+</details>
 
-- PowerShell
-- Microsoft Graph PowerShell
-- CSV automation
-- HTML reporting
-- Basic Bash
-- Basic Python
+<details>
+<summary><b>Active Directory Administration Lab</b></summary>
 
-### Support Tools and Workflows
+Built a Windows Server Active Directory lab with OU structure, users, security groups, mapped drives, shared folders, password reset workflows, and support documentation.
 
-- ServiceNow
-- Jira
-- Remote support concepts
-- Troubleshooting documentation
-- Incident handling
-- Customer-facing technical support
-- Knowledge base style documentation
+**Key skills:** Windows Server · Active Directory · Group Policy · NTFS Permissions · PowerShell · Help Desk Workflows
 
 </details>
 
 ---
 
-## 📜 Certifications
+<a id="support-value"></a>
 
-- Microsoft 365 Fundamentals (MS-900)
-- Google IT Support Professional Certificate
-- IBM IT Support Professional Certificate
-- IBM Cybersecurity Analyst Professional Certificate
+## 🛠️ Support Value
+
+| Support Area | Examples |
+|---|---|
+| **User and Access Support** | Password resets, account status checks, license review, group membership review, MFA / SSPR guidance |
+| **Endpoint Support** | Windows troubleshooting, app install checks, Intune enrollment review, compliance status checks, sync validation |
+| **Microsoft 365 Support** | Teams, Outlook, OneDrive, SharePoint, users, groups, licenses, basic tenant administration |
+| **Identity Support** | Active Directory users/groups, Entra ID users/devices, hybrid identity visibility checks |
+| **Documentation** | Runbooks, support notes, screenshots, checklists, troubleshooting references |
+| **Automation** | PowerShell scripts for repeatable support tasks, exports, logs, and HTML reports |
 
 ---
+
+<a id="technical-toolkit"></a>
+
+## 🧰 Technical Toolkit
+
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Tools and Skills</th>
+  </tr>
+  <tr>
+    <td><b>Microsoft 365 / Identity</b></td>
+    <td>Microsoft 365 Admin Center, Entra ID, users, groups, licenses, MFA, SSPR, Conditional Access concepts</td>
+  </tr>
+  <tr>
+    <td><b>Endpoint / Desktop Support</b></td>
+    <td>Windows 10/11, Intune enrollment, device compliance, app deployment, sync checks, endpoint-side validation</td>
+  </tr>
+  <tr>
+    <td><b>Active Directory</b></td>
+    <td>ADUC, OUs, security groups, password resets, account status, Group Policy concepts, shared folders</td>
+  </tr>
+  <tr>
+    <td><b>Hybrid Identity</b></td>
+    <td>Microsoft Entra Cloud Sync, Provisioning Agent, scoped OU sync, LDAP / Global Catalog validation</td>
+  </tr>
+  <tr>
+    <td><b>Automation</b></td>
+    <td>PowerShell, Microsoft Graph PowerShell, CSV automation, structured logs, HTML reporting</td>
+  </tr>
+  <tr>
+    <td><b>Support Workflows</b></td>
+    <td>Ticket documentation, escalation notes, user communication, troubleshooting guides, knowledge base style documentation</td>
+  </tr>
+</table>
+
+---
+
+<a id="certifications"></a>
+
+## 📜 Certifications
+
+| Certification | Status |
+|---|---|
+| Microsoft 365 Fundamentals (MS-900) | Completed |
+| Google IT Support Professional Certificate | Completed |
+| IBM IT Support Professional Certificate | Completed |
+| IBM Cybersecurity Analyst Professional Certificate | Completed |
+
+---
+
+<a id="target-roles"></a>
 
 ## 🎯 Current Target Roles
 
@@ -269,9 +239,11 @@ A PowerShell-based monitoring tool for checking CPU, RAM, disk, services, uptime
 
 ## 📌 Resume Summary
 
-IT Support Specialist with hands-on portfolio experience in Microsoft 365, Entra ID, Intune, Active Directory, Windows endpoint support, hybrid identity, and PowerShell automation. Built practical labs for user lifecycle management, endpoint compliance, hybrid identity sync, software deployment, and system health monitoring. Strong communication background with customer-facing support experience and a focus on clear documentation, troubleshooting, and repeatable support workflows.
+IT Support Specialist with hands-on portfolio experience in **Microsoft 365, Entra ID, Intune, Active Directory, Windows endpoint support, hybrid identity, and PowerShell automation**. Built practical labs for user lifecycle management, endpoint compliance, hybrid identity sync, software deployment, and system health monitoring. Strong communication background with customer-facing support experience and a focus on clear documentation, troubleshooting, and repeatable support workflows.
 
 ---
+
+<a id="contact"></a>
 
 ## 🤝 Let’s Connect
 
